@@ -36,4 +36,4 @@ Our client code and infrastructure stay private.
 - WhatsApp: [+254 727 981 887](https://wa.me/254727981887)
 - [LinkedIn](https://www.linkedin.com/company/backdesk-systems) · [X @backdesk_ke](https://x.com/backdesk_ke)
 
-BackDesk Systems · Business name reg. no. BN-Y6SD5KJ7 · Nyeri, Kenya
+BackDesk Systems
