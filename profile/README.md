@@ -6,7 +6,7 @@ BackDesk keeps small businesses' back office in order: stock, eTIMS invoicing, M
 debtors and a clear owner's report every month. We set up, customise, host and support proven open-source business software
 (ERPNext), so owners can keep their till and leave the paperwork to us.
 
-Based in Nyeri, Kenya, working with businesses across the country.
+Working with businesses across Kenya.
 
 ## What we do
 
